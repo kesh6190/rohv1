@@ -1,0 +1,8 @@
+<?xml version ='1.0' ?>
+	<level1>
+		<hint id = 'intro1'> ❤Welcome!❤ Use W-A-S-D for default ◀🔼🔽▶ movement👨🏼‍💻</hint>
+		<hint id = 'intro2'> Press W (keyboard) or A (gamepad) to perform a small jump.Hold for a long jump</hint>		
+		<hint id = 'intro3'> Press S or X to Wall Slide(Requires Powerpill)</hint>
+		<hint id = 'intro4'> Jump on enemy heads, collect coins in your ultimate quest to find and defeat Jack</hint>				
+	</level1>
+	
